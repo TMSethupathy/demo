@@ -1,1 +1,1 @@
-file name is text2
+ My name is text2
